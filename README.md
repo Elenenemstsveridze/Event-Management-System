@@ -1,4 +1,5 @@
 Event Management System 🗓️
+
 A Python application for managing events and participant registrations
 
 🚀 Overview
